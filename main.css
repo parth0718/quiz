@@ -1,0 +1,24 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background-color:  #04420e, font color #000000;
+    margin: 0;
+    text-align: left;
+  }
+header{
+    float: left;
+    text-align: left;
+
+}
+nav{
+    
+}
+  .container{
+    width: 80%;
+    align-content: center;
+    background-color: #b3e6b5, color #1e1e82;
+  }
+.footer{
+    font-size:  .70 em;
+    font-style: italic;
+    text-align: center;
+}
